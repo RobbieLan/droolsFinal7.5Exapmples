@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Implementation-Title: droolsscource Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Java-Version: 1.8.0_151
+Built-By: Administrator
+Scm-Connection: scm:git:https://github.com:kiegroup/drools.git/droolss
+ cource
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: droolsscource Maven Webapp
+Implementation-Vendor-Id: com.droolssource
+Java-Vendor: Oracle Corporation
+Os-Name: Windows 7
+Scm-Url: https://github.com/kiegroup/drools/droolsscource
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 6.1
+Scm-Revision: 
+Build-Jdk: 1.8.0_151
+Specification-Version: 0.0
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
